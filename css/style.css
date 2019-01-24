@@ -1,0 +1,58 @@
+/* Teeny tiny nav bar */
+.tnav-tbar{
+    background-color: #de493c;
+    padding: 5px;
+}
+
+.tnav-tbar ul{
+    list-style: none;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+
+}
+
+.tnav-tbar li{
+    display: inline;
+}
+
+.tnav-tbar a{
+    padding: 2px 5px;
+    color: white;
+}
+
+/* Regular nav bar*/
+.nav-bar{
+    background: rgb(245,148,145);
+    background: linear-gradient(180deg, rgba(245,148,145,1) 0%, rgba(230,105,98,1) 19%, rgba(227,70,59,1) 42%);
+    padding-top: 5px;
+}
+
+.nav-bar ul{
+    list-style: none;
+    text-align: right;
+}
+.nav-bar li{
+    display: inline;
+}
+
+.nav-bar h1{
+    text-align: left;
+    color: white;
+}
+.nav-bar a{
+    
+}
+
+.button{
+    color: white;
+    background-color: transparent;
+    border-color: #e3463b;
+    border-radius: 5px;
+
+}
+
+.button:hover{
+    background: white;
+    color: black;
+}

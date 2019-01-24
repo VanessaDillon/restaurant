@@ -1,0 +1,99 @@
+/*lil nav*/
+.lil-nav{
+    background-color: #de493c;
+
+}
+
+.lil-nav ul{
+    text-decoration: none;
+    margin: 0;
+}
+
+.lil-nav li{
+    display: inline;
+    padding: 5px;
+}
+
+.lil-nav a{
+    color: white;
+}
+
+/*big nav*/
+.header{
+    background: rgb(231,128,120);
+    background: linear-gradient(180deg, rgba(231,128,120,1) 19%, rgba(230,110,101,1) 23%, rgba(228,87,77,1) 29%, rgba(227,70,59,1) 34%);
+}
+
+.header h1{
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.header form{
+    padding-bottom: 10px;
+}
+.hero {
+    padding-bottom: 30px;
+    margin: auto;
+}
+/*main*/
+.main{
+    background-color: #f5efdc;
+
+}
+.main h2{
+    color: #874c39;
+    margin-top: 15px;
+    padding-bottom: 20px;
+    font-style: italic;
+
+}
+
+.main figure{
+    color: black;
+    z-index: 1;
+    margin: 0px 175px 0px;
+}
+
+
+.main figcaption{
+    background-color:white;
+    
+}
+
+.lilmain {
+    background-color: #fcf7cf;
+}
+.lilhead{
+    color: red;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+
+.reserve{
+    background-color: #f7f4e9;
+    color: #999e03;
+}
+.reserve h2{
+    color: brown;
+    font-style: italic;
+}
+
+.clogos{
+    background-color: #63635c;
+}
+
+.footer{
+    background-color: #595852;
+    color: gray;
+}
+
+.footer h3, address{
+    color: white;
+}
+.bottom{
+    background-color: #403f38;
+    color: white;
+}
